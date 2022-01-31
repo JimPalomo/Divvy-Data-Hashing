@@ -12,4 +12,4 @@ The project was divided into two separate parts. The first incorporated the deve
 - Find similar trips from given latitude/longitude
 
 ### Example
-![alt text]()
+![alt text](https://github.com/JimPalomo/Divvy-Data-Hashing/blob/main/assets/sample-1.png)
